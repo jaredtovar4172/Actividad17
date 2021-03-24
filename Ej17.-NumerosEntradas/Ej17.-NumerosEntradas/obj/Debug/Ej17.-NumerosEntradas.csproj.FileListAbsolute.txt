@@ -1,0 +1,11 @@
+C:\Users\jared\source\repos\Ej17.-NumerosEntradas\Ej17.-NumerosEntradas\bin\Debug\Ej17.-NumerosEntradas.exe.config
+C:\Users\jared\source\repos\Ej17.-NumerosEntradas\Ej17.-NumerosEntradas\bin\Debug\Ej17.-NumerosEntradas.exe
+C:\Users\jared\source\repos\Ej17.-NumerosEntradas\Ej17.-NumerosEntradas\bin\Debug\Ej17.-NumerosEntradas.pdb
+C:\Users\jared\source\repos\Ej17.-NumerosEntradas\Ej17.-NumerosEntradas\obj\Debug\Ej17.-NumerosEntradas.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\Ej17.-NumerosEntradas\Ej17.-NumerosEntradas\obj\Debug\Ej17._NumerosEntradas.DialogBoxCaptura.resources
+C:\Users\jared\source\repos\Ej17.-NumerosEntradas\Ej17.-NumerosEntradas\obj\Debug\Ej17._NumerosEntradas.Form1.resources
+C:\Users\jared\source\repos\Ej17.-NumerosEntradas\Ej17.-NumerosEntradas\obj\Debug\Ej17._NumerosEntradas.Properties.Resources.resources
+C:\Users\jared\source\repos\Ej17.-NumerosEntradas\Ej17.-NumerosEntradas\obj\Debug\Ej17.-NumerosEntradas.csproj.GenerateResource.cache
+C:\Users\jared\source\repos\Ej17.-NumerosEntradas\Ej17.-NumerosEntradas\obj\Debug\Ej17.-NumerosEntradas.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\Ej17.-NumerosEntradas\Ej17.-NumerosEntradas\obj\Debug\Ej17.-NumerosEntradas.exe
+C:\Users\jared\source\repos\Ej17.-NumerosEntradas\Ej17.-NumerosEntradas\obj\Debug\Ej17.-NumerosEntradas.pdb
